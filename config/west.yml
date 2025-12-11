@@ -2,7 +2,7 @@ manifest:
   remotes:
     # This is the ZMK Firmware remote, which contains the main ZMK codebase.
     - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+      url-base: https://github.com/ergohaven
   projects:
     - name: zmk
       remote: zmkfirmware
